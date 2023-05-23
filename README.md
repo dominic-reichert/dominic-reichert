@@ -6,7 +6,7 @@
 <p>&nbsp;</p>
 <p>👋 I'm Dominic and have just started my journey as a frontend developer. I'm aiming for the creation exceptional user experiences, I strive to bring ideas to life through clean and efficient code.</p>
 
-<p>💻 I am currently building on a strong foundation in HTML, CSS, JavaScript and Vue.js, and I'm always eager to expand my knowledge and explore the latest technologies and frameworks.</p>
+<p>💻 I am currently building on a strong foundation in HTML, CSS, JavaScript and Vue.js. I'm always eager to expand my knowledge and explore the latest technologies and frameworks.</p>
 
 <p>🚀 Continuously striving for growth, I believe in the power of teamwork and effective communication, as I find that collaboration fuels innovation and leads to remarkable results.</p>
 
